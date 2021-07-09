@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+    font-family: 'Uchen', serif;
+    overflow: scroll;
+}
+.header{
+    width: 100%;
+    background-color: orange;
+    color: black;
+    margin-top: 0px;
+    padding: 10px;
+    font-size: 25px;
+}
+.objects_detected{
+    font-size: 17px;
+    background-color: orange;
+    box-shadow: 3px 3px 3px #ebe7e4;
+    font-weight: bold;
+    color: black;
+}
+.status{
+    font-size: 17px;
+     box-shadow: 3px 3px 3px #ebe7e4;
+     color: black;
+     font-weight: bold;
+}
+.start{
+    font-size: 20px;
+    box-shadow: 3px 3px 3px #ebe7e4;
+    color: black;
+    font-weight: bold;
+}
+canvas{
+    border: 3px dashed white;
+    border-radius: 20% 40% 20% 40%;
+}
+.footer{
+    background-color: orange;
+    width: 100%;
+    left: 0;
+    padding: 10px;
+    color: black;
+    margin-top: 420px;
+    
+}
